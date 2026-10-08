@@ -1,9 +1,9 @@
 {
   "count": 4,
   "accounts": [
-    { "username": "hitman", "password": "qwerty1234" },
-    { "username": "sarang", "password": "new1234" },
-    { "username": "mukesh", "password": "old1234" },
-    { "username": "ultron", "password": "simple1234" }
+    { "username": "hitman", "password": "password" },
+    { "username": "sarang", "password": "password" },
+    { "username": "mukesh", "password": "password" },
+    { "username": "ultron", "password": "password" }
   ]
 }
